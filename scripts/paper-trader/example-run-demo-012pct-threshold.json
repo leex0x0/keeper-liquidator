@@ -1,0 +1,1402 @@
+{
+  "generatedAt": "2026-10-26T14:15:48.736Z",
+  "feed": "0x4aDC67696bA383F43DD60A9e78F2C97Fbbfc7cb1",
+  "thresholdBps": 12,
+  "notionalUsd": 500,
+  "roundsFetched": 150,
+  "maxMoveBpsObserved": 23.420959256474518,
+  "uniswapWethUsdSpot": 2891.7125122286625,
+  "trades": [
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839892",
+      "entryPrice": 2322.67,
+      "triggerMoveBps": 18.733450023121843,
+      "entryTime": "2026-10-26T00:50:39.000Z",
+      "exitPrice": 2319.03,
+      "exitRound": "18446744073709839893",
+      "pnlUsd": 0.7835809650100687
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839893",
+      "entryPrice": 2319.03,
+      "triggerMoveBps": -15.671619300201373,
+      "entryTime": "2026-10-26T00:52:28.000Z",
+      "exitPrice": 2323.70754647,
+      "exitRound": "18446744073709839894",
+      "pnlUsd": 1.0085135746411051
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839894",
+      "entryPrice": 2323.70754647,
+      "triggerMoveBps": 20.170271492822106,
+      "entryTime": "2026-10-26T00:57:13.000Z",
+      "exitPrice": 2327.56713186,
+      "exitRound": "18446744073709839895",
+      "pnlUsd": -0.830480022295158
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839895",
+      "entryPrice": 2327.56713186,
+      "triggerMoveBps": 16.609600445903162,
+      "entryTime": "2026-10-26T01:00:22.000Z",
+      "exitPrice": 2323.49386479,
+      "exitRound": "18446744073709839896",
+      "pnlUsd": 0.8750052821773844
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839896",
+      "entryPrice": 2323.49386479,
+      "triggerMoveBps": -17.500105643547688,
+      "entryTime": "2026-10-26T01:04:55.000Z",
+      "exitPrice": 2318.98966284,
+      "exitRound": "18446744073709839897",
+      "pnlUsd": -0.9692734760904548
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839897",
+      "entryPrice": 2318.98966284,
+      "triggerMoveBps": -19.385469521809096,
+      "entryTime": "2026-10-26T01:06:34.000Z",
+      "exitPrice": 2315.44854343,
+      "exitRound": "18446744073709839898",
+      "pnlUsd": -0.7635047854554653
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839898",
+      "entryPrice": 2315.44854343,
+      "triggerMoveBps": -15.270095709109304,
+      "entryTime": "2026-10-26T01:18:18.000Z",
+      "exitPrice": 2319.7679,
+      "exitRound": "18446744073709839899",
+      "pnlUsd": 0.9327256661038462
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839899",
+      "entryPrice": 2319.7679,
+      "triggerMoveBps": 18.654513322076927,
+      "entryTime": "2026-10-26T01:19:26.000Z",
+      "exitPrice": 2323.5454,
+      "exitRound": "18446744073709839900",
+      "pnlUsd": -0.8141978341885293
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839900",
+      "entryPrice": 2323.5454,
+      "triggerMoveBps": 16.283956683770587,
+      "entryTime": "2026-10-26T01:22:55.000Z",
+      "exitPrice": 2327.6197,
+      "exitRound": "18446744073709839901",
+      "pnlUsd": -0.8767420683925998
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839901",
+      "entryPrice": 2327.6197,
+      "triggerMoveBps": 17.534841367851996,
+      "entryTime": "2026-10-26T01:25:05.000Z",
+      "exitPrice": 2323.26,
+      "exitRound": "18446744073709839902",
+      "pnlUsd": 0.9365146720488693
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839902",
+      "entryPrice": 2323.26,
+      "triggerMoveBps": -18.730293440977388,
+      "entryTime": "2026-10-26T01:27:40.000Z",
+      "exitPrice": 2319.0061692,
+      "exitRound": "18446744073709839903",
+      "pnlUsd": -0.915487461584215
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839903",
+      "entryPrice": 2319.0061692,
+      "triggerMoveBps": -18.3097492316843,
+      "entryTime": "2026-10-26T01:30:58.000Z",
+      "exitPrice": 2314.78518802,
+      "exitRound": "18446744073709839904",
+      "pnlUsd": -0.9100840774080364
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839904",
+      "entryPrice": 2314.78518802,
+      "triggerMoveBps": -18.201681548160728,
+      "entryTime": "2026-10-26T01:32:37.000Z",
+      "exitPrice": 2319.13120442,
+      "exitRound": "18446744073709839905",
+      "pnlUsd": 0.9387515572702627
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839905",
+      "entryPrice": 2319.13120442,
+      "triggerMoveBps": 18.775031145405254,
+      "entryTime": "2026-10-26T01:33:54.000Z",
+      "exitPrice": 2315.62,
+      "exitRound": "18446744073709839906",
+      "pnlUsd": 0.757008575734753
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839906",
+      "entryPrice": 2315.62,
+      "triggerMoveBps": -15.140171514695059,
+      "entryTime": "2026-10-26T01:36:06.000Z",
+      "exitPrice": 2311.51406267,
+      "exitRound": "18446744073709839907",
+      "pnlUsd": -0.8865740773529251
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839907",
+      "entryPrice": 2311.51406267,
+      "triggerMoveBps": -17.7314815470585,
+      "entryTime": "2026-10-26T01:38:42.000Z",
+      "exitPrice": 2307.36249097,
+      "exitRound": "18446744073709839908",
+      "pnlUsd": -0.8980199962972154
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839908",
+      "entryPrice": 2307.36249097,
+      "triggerMoveBps": -17.96039992594431,
+      "entryTime": "2026-10-26T01:43:26.000Z",
+      "exitPrice": 2303.67471452,
+      "exitRound": "18446744073709839909",
+      "pnlUsd": -0.7991324433053612
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839909",
+      "entryPrice": 2303.67471452,
+      "triggerMoveBps": -15.982648866107224,
+      "entryTime": "2026-10-26T01:44:53.000Z",
+      "exitPrice": 2299.4031,
+      "exitRound": "18446744073709839910",
+      "pnlUsd": -0.9271305738341252
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839910",
+      "entryPrice": 2299.4031,
+      "triggerMoveBps": -18.542611476682506,
+      "entryTime": "2026-10-26T01:46:44.000Z",
+      "exitPrice": 2303.54577351,
+      "exitRound": "18446744073709839911",
+      "pnlUsd": 0.900814978896022
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839911",
+      "entryPrice": 2303.54577351,
+      "triggerMoveBps": 18.01629957792044,
+      "entryTime": "2026-10-26T01:47:17.000Z",
+      "exitPrice": 2308.888564,
+      "exitRound": "18446744073709839912",
+      "pnlUsd": -1.159688370737031
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839912",
+      "entryPrice": 2308.888564,
+      "triggerMoveBps": 23.193767414740616,
+      "entryTime": "2026-10-26T01:48:55.000Z",
+      "exitPrice": 2304.8760071,
+      "exitRound": "18446744073709839913",
+      "pnlUsd": 0.868936890797409
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839913",
+      "entryPrice": 2304.8760071,
+      "triggerMoveBps": -17.37873781594818,
+      "entryTime": "2026-10-26T01:50:23.000Z",
+      "exitPrice": 2309.87,
+      "exitRound": "18446744073709839914",
+      "pnlUsd": 1.0833539167868713
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839914",
+      "entryPrice": 2309.87,
+      "triggerMoveBps": 21.667078335737425,
+      "entryTime": "2026-10-26T01:52:37.000Z",
+      "exitPrice": 2314.56360508,
+      "exitRound": "18446744073709839915",
+      "pnlUsd": -1.015989012368661
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839915",
+      "entryPrice": 2314.56360508,
+      "triggerMoveBps": 20.319780247373217,
+      "entryTime": "2026-10-26T01:55:42.000Z",
+      "exitPrice": 2310.27127367,
+      "exitRound": "18446744073709839916",
+      "pnlUsd": 0.927244211517683
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839916",
+      "entryPrice": 2310.27127367,
+      "triggerMoveBps": -18.54488423035366,
+      "entryTime": "2026-10-26T01:58:39.000Z",
+      "exitPrice": 2313.8431,
+      "exitRound": "18446744073709839917",
+      "pnlUsd": 0.7730318016563414
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839917",
+      "entryPrice": 2313.8431,
+      "triggerMoveBps": 15.460636033126828,
+      "entryTime": "2026-10-26T02:02:30.000Z",
+      "exitPrice": 2317.52,
+      "exitRound": "18446744073709839918",
+      "pnlUsd": -0.7945439342883561
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839918",
+      "entryPrice": 2317.52,
+      "triggerMoveBps": 15.890878685767122,
+      "entryTime": "2026-10-26T02:05:37.000Z",
+      "exitPrice": 2313.79291517,
+      "exitRound": "18446744073709839919",
+      "pnlUsd": 0.8041106074596912
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839919",
+      "entryPrice": 2313.79291517,
+      "triggerMoveBps": -16.082212149193825,
+      "entryTime": "2026-10-26T02:10:02.000Z",
+      "exitPrice": 2309.93004475,
+      "exitRound": "18446744073709839920",
+      "pnlUsd": -0.834748519341071
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839920",
+      "entryPrice": 2309.93004475,
+      "triggerMoveBps": -16.69497038682142,
+      "entryTime": "2026-10-26T02:10:35.000Z",
+      "exitPrice": 2305.76578241,
+      "exitRound": "18446744073709839921",
+      "pnlUsd": -0.901382782016352
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839921",
+      "entryPrice": 2305.76578241,
+      "triggerMoveBps": -18.02765564032704,
+      "entryTime": "2026-10-26T02:20:27.000Z",
+      "exitPrice": 2301.90553549,
+      "exitRound": "18446744073709839922",
+      "pnlUsd": -0.8370856548936327
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839922",
+      "entryPrice": 2301.90553549,
+      "triggerMoveBps": -16.741713097872655,
+      "entryTime": "2026-10-26T02:21:12.000Z",
+      "exitPrice": 2305.66255013,
+      "exitRound": "18446744073709839923",
+      "pnlUsd": 0.816066207338979
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839923",
+      "entryPrice": 2305.66255013,
+      "triggerMoveBps": 16.32132414677958,
+      "entryTime": "2026-10-26T02:22:07.000Z",
+      "exitPrice": 2301.78886511,
+      "exitRound": "18446744073709839924",
+      "pnlUsd": 0.8400372855475755
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839924",
+      "entryPrice": 2301.78886511,
+      "triggerMoveBps": -16.80074571095151,
+      "entryTime": "2026-10-26T02:26:53.000Z",
+      "exitPrice": 2305.94,
+      "exitRound": "18446744073709839925",
+      "pnlUsd": 0.901719300349793
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839925",
+      "entryPrice": 2305.94,
+      "triggerMoveBps": 18.03438600699586,
+      "entryTime": "2026-10-26T02:28:20.000Z",
+      "exitPrice": 2302.44488933,
+      "exitRound": "18446744073709839926",
+      "pnlUsd": 0.7578494388405663
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839926",
+      "entryPrice": 2302.44488933,
+      "triggerMoveBps": -15.156988776811327,
+      "entryTime": "2026-10-26T02:32:46.000Z",
+      "exitPrice": 2298.02563586,
+      "exitRound": "18446744073709839927",
+      "pnlUsd": -0.9596871331165799
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839927",
+      "entryPrice": 2298.02563586,
+      "triggerMoveBps": -19.193742662331598,
+      "entryTime": "2026-10-26T02:39:22.000Z",
+      "exitPrice": 2301.8766,
+      "exitRound": "18446744073709839928",
+      "pnlUsd": 0.8378853742767157
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839928",
+      "entryPrice": 2301.8766,
+      "triggerMoveBps": 16.757707485534315,
+      "entryTime": "2026-10-26T02:48:08.000Z",
+      "exitPrice": 2297.94,
+      "exitRound": "18446744073709839929",
+      "pnlUsd": 0.8550849337449276
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839929",
+      "entryPrice": 2297.94,
+      "triggerMoveBps": -17.101698674898554,
+      "entryTime": "2026-10-26T02:50:42.000Z",
+      "exitPrice": 2301.45495889,
+      "exitRound": "18446744073709839930",
+      "pnlUsd": 0.7648064984290035
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839930",
+      "entryPrice": 2301.45495889,
+      "triggerMoveBps": 15.29612996858007,
+      "entryTime": "2026-10-26T02:59:42.000Z",
+      "exitPrice": 2306.15174512,
+      "exitRound": "18446744073709839931",
+      "pnlUsd": -1.0203949922760052
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839931",
+      "entryPrice": 2306.15174512,
+      "triggerMoveBps": 20.407899845520106,
+      "entryTime": "2026-10-26T03:01:43.000Z",
+      "exitPrice": 2309.68,
+      "exitRound": "18446744073709839932",
+      "pnlUsd": -0.7649658977267408
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839932",
+      "entryPrice": 2309.68,
+      "triggerMoveBps": 15.299317954534818,
+      "entryTime": "2026-10-26T03:02:27.000Z",
+      "exitPrice": 2313.71,
+      "exitRound": "18446744073709839933",
+      "pnlUsd": -0.8724152263517457
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839933",
+      "entryPrice": 2313.71,
+      "triggerMoveBps": 17.448304527034917,
+      "entryTime": "2026-10-26T03:05:24.000Z",
+      "exitPrice": 2310.0570076,
+      "exitRound": "18446744073709839934",
+      "pnlUsd": 0.7894231342735542
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839934",
+      "entryPrice": 2310.0570076,
+      "triggerMoveBps": -15.788462685471085,
+      "entryTime": "2026-10-26T03:08:53.000Z",
+      "exitPrice": 2306.40139286,
+      "exitRound": "18446744073709839935",
+      "pnlUsd": -0.7912390750472517
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839935",
+      "entryPrice": 2306.40139286,
+      "triggerMoveBps": -15.824781500945033,
+      "entryTime": "2026-10-26T03:15:17.000Z",
+      "exitPrice": 2309.97,
+      "exitRound": "18446744073709839936",
+      "pnlUsd": 0.7736309800729039
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839936",
+      "entryPrice": 2309.97,
+      "triggerMoveBps": 15.472619601458078,
+      "entryTime": "2026-10-26T03:25:22.000Z",
+      "exitPrice": 2306.43622772,
+      "exitRound": "18446744073709839937",
+      "pnlUsd": 0.764895708602275
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839937",
+      "entryPrice": 2306.43622772,
+      "triggerMoveBps": -15.2979141720455,
+      "entryTime": "2026-10-26T03:28:30.000Z",
+      "exitPrice": 2302.84633441,
+      "exitRound": "18446744073709839938",
+      "pnlUsd": -0.7782338108581695
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839938",
+      "entryPrice": 2302.84633441,
+      "triggerMoveBps": -15.564676217163388,
+      "entryTime": "2026-10-26T03:30:53.000Z",
+      "exitPrice": 2306.48,
+      "exitRound": "18446744073709839939",
+      "pnlUsd": 0.7889509464232067
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839939",
+      "entryPrice": 2306.48,
+      "triggerMoveBps": 15.779018928464136,
+      "entryTime": "2026-10-26T03:33:27.000Z",
+      "exitPrice": 2302.55499537,
+      "exitRound": "18446744073709839940",
+      "pnlUsd": 0.8508646573999938
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839940",
+      "entryPrice": 2302.55499537,
+      "triggerMoveBps": -17.017293147999876,
+      "entryTime": "2026-10-26T03:42:46.000Z",
+      "exitPrice": 2298.75419483,
+      "exitRound": "18446744073709839941",
+      "pnlUsd": -0.8253441389332434
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839941",
+      "entryPrice": 2298.75419483,
+      "triggerMoveBps": -16.506882778664867,
+      "entryTime": "2026-10-26T03:50:17.000Z",
+      "exitPrice": 2295.21674338,
+      "exitRound": "18446744073709839942",
+      "pnlUsd": -0.7694279488332898
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839942",
+      "entryPrice": 2295.21674338,
+      "triggerMoveBps": -15.388558976665795,
+      "entryTime": "2026-10-26T03:52:53.000Z",
+      "exitPrice": 2299.33,
+      "exitRound": "18446744073709839943",
+      "pnlUsd": 0.8960497155363649
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839943",
+      "entryPrice": 2299.33,
+      "triggerMoveBps": 17.9209943107273,
+      "entryTime": "2026-10-26T03:58:54.000Z",
+      "exitPrice": 2302.94,
+      "exitRound": "18446744073709839944",
+      "pnlUsd": -0.785011285896354
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839944",
+      "entryPrice": 2302.94,
+      "triggerMoveBps": 15.700225717927081,
+      "entryTime": "2026-10-26T04:01:52.000Z",
+      "exitPrice": 2306.49,
+      "exitRound": "18446744073709839945",
+      "pnlUsd": -0.7707539058767764
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839945",
+      "entryPrice": 2306.49,
+      "triggerMoveBps": 15.41507811753553,
+      "entryTime": "2026-10-26T04:05:20.000Z",
+      "exitPrice": 2310.17,
+      "exitRound": "18446744073709839946",
+      "pnlUsd": -0.7977489605418387
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839946",
+      "entryPrice": 2310.17,
+      "triggerMoveBps": 15.954979210836775,
+      "entryTime": "2026-10-26T04:12:30.000Z",
+      "exitPrice": 2314.91751833,
+      "exitRound": "18446744073709839947",
+      "pnlUsd": -1.0275257513515932
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839947",
+      "entryPrice": 2314.91751833,
+      "triggerMoveBps": 20.550515027031864,
+      "entryTime": "2026-10-26T04:15:48.000Z",
+      "exitPrice": 2311.19308583,
+      "exitRound": "18446744073709839948",
+      "pnlUsd": 0.8044417285948332
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839948",
+      "entryPrice": 2311.19308583,
+      "triggerMoveBps": -16.088834571896665,
+      "entryTime": "2026-10-26T04:20:22.000Z",
+      "exitPrice": 2307.4635413,
+      "exitRound": "18446744073709839949",
+      "pnlUsd": -0.8068439960438768
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839949",
+      "entryPrice": 2307.4635413,
+      "triggerMoveBps": -16.136879920877533,
+      "entryTime": "2026-10-26T04:26:03.000Z",
+      "exitPrice": 2311.40137753,
+      "exitRound": "18446744073709839950",
+      "pnlUsd": 0.8532824375160806
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839950",
+      "entryPrice": 2311.40137753,
+      "triggerMoveBps": 17.06564875032161,
+      "entryTime": "2026-10-26T04:31:24.000Z",
+      "exitPrice": 2315.15,
+      "exitRound": "18446744073709839951",
+      "pnlUsd": -0.8108982079966435
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839951",
+      "entryPrice": 2315.15,
+      "triggerMoveBps": 16.21796415993287,
+      "entryTime": "2026-10-26T04:34:53.000Z",
+      "exitPrice": 2311.56191215,
+      "exitRound": "18446744073709839952",
+      "pnlUsd": 0.7749147679416436
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839952",
+      "entryPrice": 2311.56191215,
+      "triggerMoveBps": -15.498295358832873,
+      "entryTime": "2026-10-26T04:42:45.000Z",
+      "exitPrice": 2315.29,
+      "exitRound": "18446744073709839953",
+      "pnlUsd": 0.8064001726288492
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839953",
+      "entryPrice": 2315.29,
+      "triggerMoveBps": 16.128003452576984,
+      "entryTime": "2026-10-26T04:51:56.000Z",
+      "exitPrice": 2318.97,
+      "exitRound": "18446744073709839954",
+      "pnlUsd": -0.7947168605228365
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839954",
+      "entryPrice": 2318.97,
+      "triggerMoveBps": 15.89433721045673,
+      "entryTime": "2026-10-26T04:53:34.000Z",
+      "exitPrice": 2315.03227507,
+      "exitRound": "18446744073709839955",
+      "pnlUsd": 0.8490245518483646
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839955",
+      "entryPrice": 2315.03227507,
+      "triggerMoveBps": -16.980491036967294,
+      "entryTime": "2026-10-26T04:57:24.000Z",
+      "exitPrice": 2318.86612996,
+      "exitRound": "18446744073709839956",
+      "pnlUsd": 0.8280348683008601
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839956",
+      "entryPrice": 2318.86612996,
+      "triggerMoveBps": 16.560697366017205,
+      "entryTime": "2026-10-26T04:59:48.000Z",
+      "exitPrice": 2322.8787,
+      "exitRound": "18446744073709839957",
+      "pnlUsd": -0.8652008816200122
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839957",
+      "entryPrice": 2322.8787,
+      "triggerMoveBps": 17.304017632400242,
+      "entryTime": "2026-10-26T05:01:49.000Z",
+      "exitPrice": 2319.28316579,
+      "exitRound": "18446744073709839958",
+      "pnlUsd": 0.7739392956679347
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839958",
+      "entryPrice": 2319.28316579,
+      "triggerMoveBps": -15.478785913358696,
+      "entryTime": "2026-10-26T05:02:33.000Z",
+      "exitPrice": 2323.2,
+      "exitRound": "18446744073709839960",
+      "pnlUsd": 0.8444062087316415
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839960",
+      "entryPrice": 2323.2,
+      "triggerMoveBps": 16.68065221931504,
+      "entryTime": "2026-10-26T05:26:01.000Z",
+      "exitPrice": 2319.16278078,
+      "exitRound": "18446744073709839961",
+      "pnlUsd": 0.8688918775825951
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839961",
+      "entryPrice": 2319.16278078,
+      "triggerMoveBps": -17.377837551651904,
+      "entryTime": "2026-10-26T05:30:36.000Z",
+      "exitPrice": 2322.8645,
+      "exitRound": "18446744073709839962",
+      "pnlUsd": 0.7980723152936883
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839962",
+      "entryPrice": 2322.8645,
+      "triggerMoveBps": 15.961446305873766,
+      "entryTime": "2026-10-26T05:39:14.000Z",
+      "exitPrice": 2319.89747909,
+      "exitRound": "18446744073709839964",
+      "pnlUsd": 0.6386556146516453
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839964",
+      "entryPrice": 2319.89747909,
+      "triggerMoveBps": -15.032004570905928,
+      "entryTime": "2026-10-26T06:06:20.000Z",
+      "exitPrice": 2316.40133686,
+      "exitRound": "18446744073709839965",
+      "pnlUsd": -0.7535122266203874
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839965",
+      "entryPrice": 2316.40133686,
+      "triggerMoveBps": -15.07024453240775,
+      "entryTime": "2026-10-26T06:08:34.000Z",
+      "exitPrice": 2312.87039369,
+      "exitRound": "18446744073709839966",
+      "pnlUsd": -0.7621613564569399
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839966",
+      "entryPrice": 2312.87039369,
+      "triggerMoveBps": -15.243227129138798,
+      "entryTime": "2026-10-26T06:25:37.000Z",
+      "exitPrice": 2315.26,
+      "exitRound": "18446744073709839968",
+      "pnlUsd": 0.516588892425499
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839968",
+      "entryPrice": 2315.26,
+      "triggerMoveBps": 15.053335525006782,
+      "entryTime": "2026-10-26T06:51:48.000Z",
+      "exitPrice": 2319.25,
+      "exitRound": "18446744073709839969",
+      "pnlUsd": -0.8616742828018843
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839969",
+      "entryPrice": 2319.25,
+      "triggerMoveBps": 17.233485656037686,
+      "entryTime": "2026-10-26T07:00:48.000Z",
+      "exitPrice": 2315.59615127,
+      "exitRound": "18446744073709839970",
+      "pnlUsd": 0.7877220502317421
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839970",
+      "entryPrice": 2315.59615127,
+      "triggerMoveBps": -15.754441004634844,
+      "entryTime": "2026-10-26T07:13:48.000Z",
+      "exitPrice": 2310.97,
+      "exitRound": "18446744073709839971",
+      "pnlUsd": -0.9989115043793428
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839971",
+      "entryPrice": 2310.97,
+      "triggerMoveBps": -19.97823008758686,
+      "entryTime": "2026-10-26T07:30:52.000Z",
+      "exitPrice": 2314.65,
+      "exitRound": "18446744073709839972",
+      "pnlUsd": 0.7962024604387533
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839972",
+      "entryPrice": 2314.65,
+      "triggerMoveBps": 15.924049208775067,
+      "entryTime": "2026-10-26T07:32:31.000Z",
+      "exitPrice": 2310.81997291,
+      "exitRound": "18446744073709839973",
+      "pnlUsd": 0.8273447583867821
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839973",
+      "entryPrice": 2310.81997291,
+      "triggerMoveBps": -16.54689516773564,
+      "entryTime": "2026-10-26T07:37:38.000Z",
+      "exitPrice": 2315.13,
+      "exitRound": "18446744073709839974",
+      "pnlUsd": 0.9325752634404402
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839974",
+      "entryPrice": 2315.13,
+      "triggerMoveBps": 18.651505268808805,
+      "entryTime": "2026-10-26T07:41:42.000Z",
+      "exitPrice": 2319.38556775,
+      "exitRound": "18446744073709839975",
+      "pnlUsd": -0.9190774924086238
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839975",
+      "entryPrice": 2319.38556775,
+      "triggerMoveBps": 18.381549848172476,
+      "entryTime": "2026-10-26T07:43:43.000Z",
+      "exitPrice": 2315.58,
+      "exitRound": "18446744073709839976",
+      "pnlUsd": 0.8203827347455341
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839976",
+      "entryPrice": 2315.58,
+      "triggerMoveBps": -16.407654694910683,
+      "entryTime": "2026-10-26T07:52:41.000Z",
+      "exitPrice": 2311.83999158,
+      "exitRound": "18446744073709839977",
+      "pnlUsd": -0.8075748667720112
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839977",
+      "entryPrice": 2311.83999158,
+      "triggerMoveBps": -16.151497335440222,
+      "entryTime": "2026-10-26T08:02:25.000Z",
+      "exitPrice": 2308.35618208,
+      "exitRound": "18446744073709839978",
+      "pnlUsd": -0.7534711555921821
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839978",
+      "entryPrice": 2308.35618208,
+      "triggerMoveBps": -15.069423111843644,
+      "entryTime": "2026-10-26T08:03:52.000Z",
+      "exitPrice": 2304.60396991,
+      "exitRound": "18446744073709839979",
+      "pnlUsd": -0.8127454937692657
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839979",
+      "entryPrice": 2304.60396991,
+      "triggerMoveBps": -16.254909875385316,
+      "entryTime": "2026-10-26T08:06:27.000Z",
+      "exitPrice": 2309.8953977,
+      "exitRound": "18446744073709839980",
+      "pnlUsd": 1.1480123828404638
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839980",
+      "entryPrice": 2309.8953977,
+      "triggerMoveBps": 22.960247656809273,
+      "entryTime": "2026-10-26T08:17:16.000Z",
+      "exitPrice": 2314.38,
+      "exitRound": "18446744073709839981",
+      "pnlUsd": -0.970737095815117
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839981",
+      "entryPrice": 2314.38,
+      "triggerMoveBps": 19.41474191630234,
+      "entryTime": "2026-10-26T08:17:49.000Z",
+      "exitPrice": 2310.64,
+      "exitRound": "18446744073709839982",
+      "pnlUsd": 0.8079917731747241
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839982",
+      "entryPrice": 2310.64,
+      "triggerMoveBps": -16.159835463494485,
+      "entryTime": "2026-10-26T08:20:01.000Z",
+      "exitPrice": 2314.38,
+      "exitRound": "18446744073709839983",
+      "pnlUsd": 0.8092995879929883
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839983",
+      "entryPrice": 2314.38,
+      "triggerMoveBps": 16.185991759859764,
+      "entryTime": "2026-10-26T08:23:06.000Z",
+      "exitPrice": 2318.82,
+      "exitRound": "18446744073709839984",
+      "pnlUsd": -0.9592201799186076
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839984",
+      "entryPrice": 2318.82,
+      "triggerMoveBps": 19.184403598372153,
+      "entryTime": "2026-10-26T08:27:42.000Z",
+      "exitPrice": 2323.56,
+      "exitRound": "18446744073709839985",
+      "pnlUsd": -1.0220715708851444
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839985",
+      "entryPrice": 2323.56,
+      "triggerMoveBps": 20.44143141770289,
+      "entryTime": "2026-10-26T08:33:02.000Z",
+      "exitPrice": 2327.75073139,
+      "exitRound": "18446744073709839986",
+      "pnlUsd": -0.9017910856616808
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839986",
+      "entryPrice": 2327.75073139,
+      "triggerMoveBps": 18.035821713233616,
+      "entryTime": "2026-10-26T08:41:27.000Z",
+      "exitPrice": 2324.01,
+      "exitRound": "18446744073709839987",
+      "pnlUsd": 0.8035077251948892
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839987",
+      "entryPrice": 2324.01,
+      "triggerMoveBps": -16.070154503897786,
+      "entryTime": "2026-10-26T08:57:47.000Z",
+      "exitPrice": 2320.18,
+      "exitRound": "18446744073709839988",
+      "pnlUsd": -0.824006781382262
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839988",
+      "entryPrice": 2320.18,
+      "triggerMoveBps": -16.48013562764524,
+      "entryTime": "2026-10-26T09:03:27.000Z",
+      "exitPrice": 2323.73,
+      "exitRound": "18446744073709839989",
+      "pnlUsd": 0.7650268513650196
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839989",
+      "entryPrice": 2323.73,
+      "triggerMoveBps": 15.30053702730039,
+      "entryTime": "2026-10-26T09:18:07.000Z",
+      "exitPrice": 2328.9710098,
+      "exitRound": "18446744073709839990",
+      "pnlUsd": -1.1277148808166244
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839990",
+      "entryPrice": 2328.9710098,
+      "triggerMoveBps": 22.554297616332487,
+      "entryTime": "2026-10-26T09:20:09.000Z",
+      "exitPrice": 2332.6058,
+      "exitRound": "18446744073709839992",
+      "pnlUsd": -0.7803425170826638
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839992",
+      "entryPrice": 2332.6058,
+      "triggerMoveBps": 15.56818864910733,
+      "entryTime": "2026-10-26T09:45:49.000Z",
+      "exitPrice": 2329.04,
+      "exitRound": "18446744073709839993",
+      "pnlUsd": 0.7643383206883594
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839993",
+      "entryPrice": 2329.04,
+      "triggerMoveBps": -15.286766413767188,
+      "entryTime": "2026-10-26T10:04:20.000Z",
+      "exitPrice": 2323.78158235,
+      "exitRound": "18446744073709839996",
+      "pnlUsd": -1.1288809230412435
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709839996",
+      "entryPrice": 2323.78158235,
+      "triggerMoveBps": -16.166910517081188,
+      "entryTime": "2026-10-26T11:00:37.000Z",
+      "exitPrice": 2326.09824136,
+      "exitRound": "18446744073709839998",
+      "pnlUsd": 0.4984674608826983
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839998",
+      "entryPrice": 2326.09824136,
+      "triggerMoveBps": 15.372325273088572,
+      "entryTime": "2026-10-26T11:24:59.000Z",
+      "exitPrice": 2329.91,
+      "exitRound": "18446744073709839999",
+      "pnlUsd": -0.8193460130409752
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709839999",
+      "entryPrice": 2329.91,
+      "triggerMoveBps": 16.386920260819505,
+      "entryTime": "2026-10-26T11:40:24.000Z",
+      "exitPrice": 2326.36368444,
+      "exitRound": "18446744073709840000",
+      "pnlUsd": 0.7610413191925953
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840000",
+      "entryPrice": 2326.36368444,
+      "triggerMoveBps": -15.220826383851906,
+      "entryTime": "2026-10-26T11:49:01.000Z",
+      "exitPrice": 2330.2,
+      "exitRound": "18446744073709840001",
+      "pnlUsd": 0.8245304862819584
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840001",
+      "entryPrice": 2330.2,
+      "triggerMoveBps": 16.490609725639167,
+      "entryTime": "2026-10-26T11:51:36.000Z",
+      "exitPrice": 2334.33,
+      "exitRound": "18446744073709840002",
+      "pnlUsd": -0.8861900266071817
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840002",
+      "entryPrice": 2334.33,
+      "triggerMoveBps": 17.723800532143635,
+      "entryTime": "2026-10-26T11:55:58.000Z",
+      "exitPrice": 2330.51,
+      "exitRound": "18446744073709840003",
+      "pnlUsd": 0.818221930918017
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840003",
+      "entryPrice": 2330.51,
+      "triggerMoveBps": -16.36443861836034,
+      "entryTime": "2026-10-26T11:59:28.000Z",
+      "exitPrice": 2326.68521154,
+      "exitRound": "18446744073709840004",
+      "pnlUsd": -0.8205904415771732
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840004",
+      "entryPrice": 2326.68521154,
+      "triggerMoveBps": -16.411808831543464,
+      "entryTime": "2026-10-26T12:01:18.000Z",
+      "exitPrice": 2328.29040373,
+      "exitRound": "18446744073709840006",
+      "pnlUsd": 0.344952592219672
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840006",
+      "entryPrice": 2328.29040373,
+      "triggerMoveBps": 15.918522104972636,
+      "entryTime": "2026-10-26T12:25:19.000Z",
+      "exitPrice": 2332.09,
+      "exitRound": "18446744073709840007",
+      "pnlUsd": -0.8159627046336411
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840007",
+      "entryPrice": 2332.09,
+      "triggerMoveBps": 16.319254092672818,
+      "entryTime": "2026-10-26T12:27:55.000Z",
+      "exitPrice": 2328.48,
+      "exitRound": "18446744073709840008",
+      "pnlUsd": 0.7739838513951278
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840008",
+      "entryPrice": 2328.48,
+      "triggerMoveBps": -15.479677027902556,
+      "entryTime": "2026-10-26T12:30:18.000Z",
+      "exitPrice": 2324.901744,
+      "exitRound": "18446744073709840009",
+      "pnlUsd": -0.7683673469388266
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840009",
+      "entryPrice": 2324.901744,
+      "triggerMoveBps": -15.367346938776532,
+      "entryTime": "2026-10-26T12:38:33.000Z",
+      "exitPrice": 2321.2301263,
+      "exitRound": "18446744073709840010",
+      "pnlUsd": -0.7896285745140382
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840010",
+      "entryPrice": 2321.2301263,
+      "triggerMoveBps": -15.792571490280764,
+      "entryTime": "2026-10-26T12:40:11.000Z",
+      "exitPrice": 2315.88154982,
+      "exitRound": "18446744073709840012",
+      "pnlUsd": -1.15209957414376
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840012",
+      "entryPrice": 2315.88154982,
+      "triggerMoveBps": -17.87353198209169,
+      "entryTime": "2026-10-26T13:02:00.000Z",
+      "exitPrice": 2309.00154668,
+      "exitRound": "18446744073709840014",
+      "pnlUsd": -1.4853961638355038
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840014",
+      "entryPrice": 2309.00154668,
+      "triggerMoveBps": -17.974274970823096,
+      "entryTime": "2026-10-26T13:26:56.000Z",
+      "exitPrice": 2304.5,
+      "exitRound": "18446744073709840015",
+      "pnlUsd": -0.9747820841594064
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840015",
+      "entryPrice": 2304.5,
+      "triggerMoveBps": -19.49564168318813,
+      "entryTime": "2026-10-26T13:32:16.000Z",
+      "exitPrice": 2300.73485404,
+      "exitRound": "18446744073709840016",
+      "pnlUsd": -0.8169116858321012
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840016",
+      "entryPrice": 2300.73485404,
+      "triggerMoveBps": -16.338233716642023,
+      "entryTime": "2026-10-26T13:35:12.000Z",
+      "exitPrice": 2297.0265196,
+      "exitRound": "18446744073709840017",
+      "pnlUsd": -0.8059021737094406
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840017",
+      "entryPrice": 2297.0265196,
+      "triggerMoveBps": -16.11804347418881,
+      "entryTime": "2026-10-26T13:35:55.000Z",
+      "exitPrice": 2301.43,
+      "exitRound": "18446744073709840018",
+      "pnlUsd": 0.9585175361333271
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840018",
+      "entryPrice": 2301.43,
+      "triggerMoveBps": 19.170350722666544,
+      "entryTime": "2026-10-26T13:36:39.000Z",
+      "exitPrice": 2305.89,
+      "exitRound": "18446744073709840019",
+      "pnlUsd": -0.9689627753179625
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840019",
+      "entryPrice": 2305.89,
+      "triggerMoveBps": 19.37925550635925,
+      "entryTime": "2026-10-26T13:37:13.000Z",
+      "exitPrice": 2310.19,
+      "exitRound": "18446744073709840020",
+      "pnlUsd": -0.9323948670578783
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840020",
+      "entryPrice": 2310.19,
+      "triggerMoveBps": 18.647897341157567,
+      "entryTime": "2026-10-26T13:38:07.000Z",
+      "exitPrice": 2315.25721634,
+      "exitRound": "18446744073709840021",
+      "pnlUsd": -1.0967098680195047
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840021",
+      "entryPrice": 2315.25721634,
+      "triggerMoveBps": 21.93419736039009,
+      "entryTime": "2026-10-26T13:38:51.000Z",
+      "exitPrice": 2311.03675393,
+      "exitRound": "18446744073709840022",
+      "pnlUsd": 0.9114456873763176
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840022",
+      "entryPrice": 2311.03675393,
+      "triggerMoveBps": -18.228913747526352,
+      "entryTime": "2026-10-26T13:40:30.000Z",
+      "exitPrice": 2307.08342681,
+      "exitRound": "18446744073709840023",
+      "pnlUsd": -0.8553146360128283
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840023",
+      "entryPrice": 2307.08342681,
+      "triggerMoveBps": -17.10629272025657,
+      "entryTime": "2026-10-26T13:41:47.000Z",
+      "exitPrice": 2301.99,
+      "exitRound": "18446744073709840024",
+      "pnlUsd": -1.103867062372146
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840024",
+      "entryPrice": 2301.99,
+      "triggerMoveBps": -22.07734124744292,
+      "entryTime": "2026-10-26T13:43:59.000Z",
+      "exitPrice": 2305.53,
+      "exitRound": "18446744073709840025",
+      "pnlUsd": 0.7688999517809414
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840025",
+      "entryPrice": 2305.53,
+      "triggerMoveBps": 15.37799903561883,
+      "entryTime": "2026-10-26T13:44:33.000Z",
+      "exitPrice": 2300.9795634,
+      "exitRound": "18446744073709840026",
+      "pnlUsd": 0.9868526108964124
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840026",
+      "entryPrice": 2300.9795634,
+      "triggerMoveBps": -19.737052217928245,
+      "entryTime": "2026-10-26T13:47:51.000Z",
+      "exitPrice": 2297.50660709,
+      "exitRound": "18446744073709840027",
+      "pnlUsd": -0.7546690907737186
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840027",
+      "entryPrice": 2297.50660709,
+      "triggerMoveBps": -15.093381815474373,
+      "entryTime": "2026-10-26T13:48:12.000Z",
+      "exitPrice": 2301.60351282,
+      "exitRound": "18446744073709840028",
+      "pnlUsd": 0.8915982477171177
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840028",
+      "entryPrice": 2301.60351282,
+      "triggerMoveBps": 17.831964954342354,
+      "entryTime": "2026-10-26T13:48:34.000Z",
+      "exitPrice": 2296.52067968,
+      "exitRound": "18446744073709840029",
+      "pnlUsd": 1.1041939047470042
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840029",
+      "entryPrice": 2296.52067968,
+      "triggerMoveBps": -22.083878094940086,
+      "entryTime": "2026-10-26T13:54:36.000Z",
+      "exitPrice": 2301.47,
+      "exitRound": "18446744073709840030",
+      "pnlUsd": 1.0775692907519594
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840030",
+      "entryPrice": 2301.47,
+      "triggerMoveBps": 21.551385815039183,
+      "entryTime": "2026-10-26T13:56:05.000Z",
+      "exitPrice": 2296.07973649,
+      "exitRound": "18446744073709840031",
+      "pnlUsd": 1.171047962823726
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840031",
+      "entryPrice": 2296.07973649,
+      "triggerMoveBps": -23.420959256474518,
+      "entryTime": "2026-10-26T13:56:38.000Z",
+      "exitPrice": 2299.58824844,
+      "exitRound": "18446744073709840032",
+      "pnlUsd": 0.7640222363016436
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840032",
+      "entryPrice": 2299.58824844,
+      "triggerMoveBps": 15.28044472603287,
+      "entryTime": "2026-10-26T14:00:07.000Z",
+      "exitPrice": 2303.22,
+      "exitRound": "18446744073709840033",
+      "pnlUsd": -0.7896525742083611
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840033",
+      "entryPrice": 2303.22,
+      "triggerMoveBps": 15.79305148416722,
+      "entryTime": "2026-10-26T14:00:51.000Z",
+      "exitPrice": 2298.9568,
+      "exitRound": "18446744073709840034",
+      "pnlUsd": 0.925486926997827
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840034",
+      "entryPrice": 2298.9568,
+      "triggerMoveBps": -18.50973853995654,
+      "entryTime": "2026-10-26T14:01:46.000Z",
+      "exitPrice": 2295.17,
+      "exitRound": "18446744073709840035",
+      "pnlUsd": -0.8235909435096513
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840035",
+      "entryPrice": 2295.17,
+      "triggerMoveBps": -16.471818870193026,
+      "entryTime": "2026-10-26T14:03:36.000Z",
+      "exitPrice": 2298.93,
+      "exitRound": "18446744073709840036",
+      "pnlUsd": 0.8191114383683482
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840036",
+      "entryPrice": 2298.93,
+      "triggerMoveBps": 16.382228767366964,
+      "entryTime": "2026-10-26T14:04:43.000Z",
+      "exitPrice": 2304.02,
+      "exitRound": "18446744073709840037",
+      "pnlUsd": -1.1070367518802542
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840037",
+      "entryPrice": 2304.02,
+      "triggerMoveBps": 22.140735037605086,
+      "entryTime": "2026-10-26T14:09:29.000Z",
+      "exitPrice": 2309.3973,
+      "exitRound": "18446744073709840038",
+      "pnlUsd": -1.1669386550464198
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840038",
+      "entryPrice": 2309.3973,
+      "triggerMoveBps": 23.338773100928396,
+      "entryTime": "2026-10-26T14:10:12.000Z",
+      "exitPrice": 2313.61998876,
+      "exitRound": "18446744073709840039",
+      "pnlUsd": -0.914240429743289
+    },
+    {
+      "side": "SHORT",
+      "entryRound": "18446744073709840039",
+      "entryPrice": 2313.61998876,
+      "triggerMoveBps": 18.28480859486578,
+      "entryTime": "2026-10-26T14:11:30.000Z",
+      "exitPrice": 2310.03185856,
+      "exitRound": "18446744073709840040",
+      "pnlUsd": 0.7754363762052672
+    },
+    {
+      "side": "LONG",
+      "entryRound": "18446744073709840040",
+      "entryPrice": 2310.03185856,
+      "triggerMoveBps": -15.508727524105343,
+      "entryTime": "2026-10-26T14:12:23.000Z",
+      "exitPrice": 2310.03185856,
+      "exitRound": "latest (still open at end of window)",
+      "pnlUsd": 0
+    }
+  ],
+  "totalPnlUsd": -7.58562768757073
+}

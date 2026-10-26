@@ -1,0 +1,7 @@
+out/
+cache/
+broadcast/*/31337/
+.env
+*.local
+node_modules/
+scripts/node_modules/

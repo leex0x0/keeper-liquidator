@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-10-26T14:14:45.800Z",
+  "feed": "0x4aDC67696bA383F43DD60A9e78F2C97Fbbfc7cb1",
+  "thresholdBps": 200,
+  "notionalUsd": 500,
+  "roundsFetched": 150,
+  "maxMoveBpsObserved": 23.420959256474518,
+  "uniswapWethUsdSpot": 2892.8693707478715,
+  "trades": [],
+  "totalPnlUsd": 0
+}

@@ -1,0 +1,60 @@
+No files changed, compilation skipped
+
+Ran 4 tests for test/LiquidationFork.t.sol:LiquidationForkTest
+[PASS] test_liquidation_fires_when_position_crosses_threshold() (gas: 1625321)
+Logs:
+  Forked Base Sepolia at block 50511782
+  -- position opened --
+  collateralBase (8dp USD) 6930095575
+  debtBase (8dp USD) 5613030944
+  healthFactor (1e18) 1049447490583796788
+  -- oracle price crash injected --
+  WETH price before (8dp USD) 231003185856
+  WETH price after  (8dp USD) 173252389392
+  healthFactor after crash (1e18) 787085617899989257
+  ================ RESULT ================
+  gas used by executeLiquidation 699137
+  blocks between trigger and reaction 0
+  victim remaining USDC debt 0
+  victim healthFactor after liquidation (1e18) 115792089237316195423570985008687907853269984665640564039457584007913129639935
+  liquidator profit in WETH (wei) 5150321598992672
+  ==========================================
+
+[PASS] test_liquidation_reverts_when_position_is_healthy() (gas: 1163416)
+Logs:
+  Forked Base Sepolia at block 50511782
+  -- position opened --
+  collateralBase (8dp USD) 6930095575
+  debtBase (8dp USD) 5613030944
+  healthFactor (1e18) 1049447490583796788
+
+[PASS] test_only_keeper_or_owner_can_trigger_liquidation() (gas: 40504)
+Logs:
+  Forked Base Sepolia at block 50511782
+
+[PASS] test_unknown_adapter_reverts() (gas: 43174)
+Logs:
+  Forked Base Sepolia at block 50511782
+
+Suite result: ok. 4 passed; 0 failed; 0 skipped; finished in 30.70s (50.49s CPU time)
+
+╭----------------------------------------------------------+-----------------+--------+--------+--------+---------╮
+| src/FlashLoanLiquidator.sol:FlashLoanLiquidator Contract |                 |        |        |        |         |
++=================================================================================================================+
+| Deployment Cost                                          | Deployment Size |        |        |        |         |
+|----------------------------------------------------------+-----------------+--------+--------+--------+---------|
+|                                                        0 |            4164 |        |        |        |         |
+|----------------------------------------------------------+-----------------+--------+--------+--------+---------|
+|                                                          |                 |        |        |        |         |
+|----------------------------------------------------------+-----------------+--------+--------+--------+---------|
+| Function Name                                            | Min             | Avg    | Median | Max    | # Calls |
+|----------------------------------------------------------+-----------------+--------+--------+--------+---------|
+| executeLiquidation                                       |           27673 | 269635 | 179568 | 691733 |       4 |
+|----------------------------------------------------------+-----------------+--------+--------+--------+---------|
+| setAdapter                                               |           47902 |  47902 |  47902 |  47902 |       4 |
+|----------------------------------------------------------+-----------------+--------+--------+--------+---------|
+| setKeeper                                                |           47709 |  47709 |  47709 |  47709 |       4 |
+╰----------------------------------------------------------+-----------------+--------+--------+--------+---------╯
+
+
+Ran 1 test suite in 30.77s (30.70s CPU time): 4 tests passed, 0 failed, 0 skipped (4 total tests)

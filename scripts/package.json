@@ -1,0 +1,13 @@
+{
+  "name": "keeper-liquidator-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "listener": "node listener/index.js",
+    "paper-trader": "node paper-trader/index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.4"
+  }
+}
